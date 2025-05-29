@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mrosk/OneDrive/Desktop/breast_cancer_prediction/notebooks/mlruns/822727107593033544/8293efd125924979ad356461d6632109/artifacts
+end_time: 1748422023321
+entry_point_name: ''
+experiment_id: '822727107593033544'
+lifecycle_stage: active
+run_id: 8293efd125924979ad356461d6632109
+run_name: EBM
+run_uuid: 8293efd125924979ad356461d6632109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748422011192
+status: 3
+tags: []
+user_id: mrosk

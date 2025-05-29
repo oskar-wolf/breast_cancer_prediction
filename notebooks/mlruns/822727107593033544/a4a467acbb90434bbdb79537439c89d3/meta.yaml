@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mrosk/OneDrive/Desktop/breast_cancer_prediction/notebooks/mlruns/822727107593033544/a4a467acbb90434bbdb79537439c89d3/artifacts
+end_time: 1748422011178
+entry_point_name: ''
+experiment_id: '822727107593033544'
+lifecycle_stage: active
+run_id: a4a467acbb90434bbdb79537439c89d3
+run_name: Random Forest
+run_uuid: a4a467acbb90434bbdb79537439c89d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748422006887
+status: 3
+tags: []
+user_id: mrosk

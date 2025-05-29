@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mrosk/OneDrive/Desktop/breast_cancer_prediction/notebooks/mlruns/822727107593033544/10d1cd99b4e64c05b2458ebd693e269a/artifacts
+end_time: 1748422242973
+entry_point_name: ''
+experiment_id: '822727107593033544'
+lifecycle_stage: active
+run_id: 10d1cd99b4e64c05b2458ebd693e269a
+run_name: Decision Tree (Full)
+run_uuid: 10d1cd99b4e64c05b2458ebd693e269a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748422238675
+status: 3
+tags: []
+user_id: mrosk

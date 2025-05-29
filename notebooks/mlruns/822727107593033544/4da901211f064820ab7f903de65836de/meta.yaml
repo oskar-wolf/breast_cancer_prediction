@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mrosk/OneDrive/Desktop/breast_cancer_prediction/notebooks/mlruns/822727107593033544/4da901211f064820ab7f903de65836de/artifacts
+end_time: 1748421942200
+entry_point_name: ''
+experiment_id: '822727107593033544'
+lifecycle_stage: active
+run_id: 4da901211f064820ab7f903de65836de
+run_name: Logistic Regression
+run_uuid: 4da901211f064820ab7f903de65836de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748421942112
+status: 4
+tags: []
+user_id: mrosk
